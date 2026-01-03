@@ -1,0 +1,17 @@
+name: CI Proyecto 1 - Grupo 1
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Build Docker image
+        run: docker build -t pin-grupo-1-proyecto-1 .
