@@ -27,7 +27,7 @@ El proyecto incluye:
 * Leiter, Ezequiel
 * Marzialetti, Juan Antonio
 * Rocco, Francisco
-* Zanone, Pol Andrés
+* Zanone, Pablo Andrés
 
 ---
 
@@ -233,7 +233,7 @@ Integrantes:
 * Leiter, Ezequiel
 * Marzialetti, Juan Antonio
 * Rocco, Francisco
-* Zanone, Pol Andrés
+* Zanone, Pablo Andrés
 
 Proyecto realizado en el marco de la **Diplomatura DevOps**.
 
